@@ -82,7 +82,7 @@ This command does the following:
 #### Direnv
 3.
 	1. load the necessary dependencies into your shell using `direnv`
-		```
+		```sh
 		: direnv allow
 		```
 
