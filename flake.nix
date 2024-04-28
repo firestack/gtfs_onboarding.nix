@@ -133,6 +133,8 @@
 
 						ps.scipy
 						ps.matplotlib
+						ps.ipympl
+						ps.tkinter
 
 						ps.click
 					]);

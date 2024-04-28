@@ -26,7 +26,7 @@
 			packages.mbta-gtfs
 				= getGtfs
 					"https://cdn.mbta.com/MBTA_GTFS.zip"
-					"sha256-PBsLqe7TY919e8HcATocI2GAVlLGr0fp4JjAAwNMzms=";
+					"sha256-1qsBKVqK+oa/AesOUGZOZ5bJI1CqhAqFYfR+ezloP3Q=";
 
 			packages.mbta-gtfs-db
 				= createDb
